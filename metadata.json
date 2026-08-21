@@ -1,0 +1,6 @@
+{
+  "name": "booking FPCA",
+  "description": "Dashboard for managing field employees, tasks, and real-time tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
